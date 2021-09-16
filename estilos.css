@@ -1,0 +1,8 @@
+body {
+    background-image: url('imagenes/tierradelfuego.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+}
+.centrado{
+    text-align: center;
+}
