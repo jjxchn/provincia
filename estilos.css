@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
 body {
     background-image: url('imagenes/tierradelfuego.jpg');
     background-attachment: fixed;
@@ -5,4 +6,23 @@ body {
 }
 .centrado{
     text-align: center;
+}
+h2{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+title{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+a{
+    font-family: 'Bree Serif', serif;
+}
+.img-limites{
+    width: 400px;
+    height: 400px;
+    float: left;
+}
+.img-derecha{
+    width: 300px;
+    height: 450px;
+    float: right;
 }
