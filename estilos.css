@@ -13,6 +13,9 @@ h2{
 title{
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
+.centrado{
+    font-family: 'Bree Serif', serif;
+}
 a{
     font-family: 'Bree Serif', serif;
 }
@@ -29,8 +32,25 @@ a{
 .img-cet30{
     width: 100px;
     height: 100px;
-    float:inline-end
+    float:inline-end;
+    padding-left: 20px;
 }
 .footer{
     text-align: end;
+    border-width: 3px;
+}
+.gobernadores{
+    background-color: rgba(255, 255, 255, 0.329);
+    padding: 8px;
+    border: rgb(49, 49, 49) 2px;
+}
+.gobernadores td{
+    border-width: rgb(49, 49, 49) solid 2px;
+    padding: 7px;
+}
+p{
+    padding-bottom: 15px;
+}
+.gobernadores td{
+    border-bottom: gray;
 }
