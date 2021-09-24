@@ -26,3 +26,11 @@ a{
     height: 450px;
     float: right;
 }
+.img-cet30{
+    width: 100px;
+    height: 100px;
+    float:inline-end
+}
+.footer{
+    text-align: end;
+}
